@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Mouse+Memoirs&display=swap");
+
+body {
+  font-family: "Quicksand", sans-serif;
+}
+.navbar-brand {
+  font-family: "Dancing Script", cursive;
+  font-size: 40px;
+  color: rgb(126, 155, 180);
+}
